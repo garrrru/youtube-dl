@@ -1,7 +1,7 @@
 # Supported sites
  - **1tv**: Первый канал
  - **20min**
- - **220.ro**
+ - **220.ro**b
  - **23video**
  - **247sports**
  - **24video**
